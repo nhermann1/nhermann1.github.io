@@ -1,6 +1,6 @@
-name: "cat-website"
+name: "Data Science Website"
 navbar:
-  title: "My cats' website"
+  title: "Nathan Hermann--Professional Scientist"
   left:
     - text: "Home"
       href: index.html
@@ -11,4 +11,4 @@ navbar:
       href: http://github.com/<nhermann1>/
 output:
   html_document:
-    theme: moonwalk
+    theme: darkly
