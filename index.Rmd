@@ -2,13 +2,7 @@
 title: "Personal Website"
 ---
 
+``` {r}
+plot(cars) 
 
-I have a website, sorta...
-
-
-It doesn't do much...
-
-
-YET
-
-This should edit in Jekyll
+```

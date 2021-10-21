@@ -1,15 +1,12 @@
-name: "Data Science Website"
+name: "cars"
 output_dir: "docs"
 navbar:
   title: "Nathan Hermann--Professional Scientist"
   left:
-    - text: "Home"
-      href: index.html
-  right: 
-    - icon: fa-envelope fa-lg
-      href: mailto:<Nathan.Hermann@unh.edu>
-    - icon: fa-github fa-lg
-      href: http://github.com/<nhermann1>/
+  - text: "Home"
+    href: index.html
+  - text: "Second"
+    href: fancy.html
 output:
-  html_document:
-    theme: darkly
+html_document:
+ theme: darkly
