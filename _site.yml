@@ -1,4 +1,5 @@
 name: "Data Science Website"
+output_dir: "docs"
 navbar:
   title: "Nathan Hermann--Professional Scientist"
   left:
