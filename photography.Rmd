@@ -1,7 +1,7 @@
 ---
-title: "photography"
+title: "Photography"
 ---
-
+# 
 ``` {r, echo=F}
 
 photos<-list.files(path="./Wallpapers-New/")
@@ -10,9 +10,11 @@ select4<-sample(photos,4)
 
 ```
 
-#Photos
+
+
+
 Here are four random pictures among my favorites, reload the page to see four more
 
-<img src=select4[1] style="width:50%"> <img src=select4[2] style="width:50%">
+<img src="Wallpapers-New/select4[1]" style="width:50%"> <img src="Wallpapers-New/select4[2]" style="width:50%">
 
-<img src=select4[3] style="width:50%"> <img src=select4[4] style="width:50%">
+<img src="Wallpapers-New/select4[3]" style="width:50%"> <img src="Wallpapers-New/select4[4]" style="width:50%">
