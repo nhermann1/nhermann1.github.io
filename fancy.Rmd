@@ -11,25 +11,25 @@ Currently, I am investigating the impact of climate change for the Gulf of Maine
 
 #
 #Publications 
-Hermann, N.T., D.T. Chaloner, B.S. Gerig, G.A. Lamberti. Ecological consequences of Great Lakes salmon subsidies for stream-resident brook and brown trout. 2020. Canadian Journal of Fisheries and Aquatic Sciences. 77:1758-1771. https://doi.org/10.1139/cjfas-2020-0086
+__Hermann, N.T.__, D.T. Chaloner, B.S. Gerig, G.A. Lamberti. Ecological consequences of Great Lakes salmon subsidies for stream-resident brook and brown trout. 2020. Canadian Journal of Fisheries and Aquatic Sciences. 77:1758-1771. https://doi.org/10.1139/cjfas-2020-0086
 
-Gerig, B.S., N.T. Hermann, D.T. Chaloner, and G.A. Lamberti. 2019. Using a dynamic bioenergetics-bioaccumulation model to understand mechanisms of uptake and bioaccumulation of salmon-derived contaminants by stream resident fish. Science of the Total Environment. 652:633-642. https://doi.org/10.1016/j.scitotenv.2018.10.149
+Gerig, B.S., __N.T. Hermann__, D.T. Chaloner, and G.A. Lamberti. 2019. Using a dynamic bioenergetics-bioaccumulation model to understand mechanisms of uptake and bioaccumulation of salmon-derived contaminants by stream resident fish. Science of the Total Environment. 652:633-642. https://doi.org/10.1016/j.scitotenv.2018.10.149
 
 #
 #Presentations
-Hermann, N.T., L.J. Hammer, N.E. Hussey, M. Marcoux, H. Pettitt-Wade, K. Hedges, and N.B. Furey. 2021, May 5. Arctic seasonality contributes to variable feeding and movement behaviors in resident sculpin. Presented at University of New Hampshire School of Marine Science and Ocean Engineering Graduate Symposium.
+__Hermann, N.T.__, L.J. Hammer, N.E. Hussey, M. Marcoux, H. Pettitt-Wade, K. Hedges, and N.B. Furey. 2021, May 5. Arctic seasonality contributes to variable feeding and movement behaviors in resident sculpin. Presented at University of New Hampshire School of Marine Science and Ocean Engineering Graduate Symposium.
 
-Hermann, N.T., A. Caldwell, E. Craig, J. Seavey, and N.B. Furey. 2021, January 28th. Preparing historical fisheries-independent data for use in predictive modeling with seabird foraging. Presented at New Hampshire Sea Grant Research Symposium.
+__Hermann, N.T.__, A. Caldwell, E. Craig, J. Seavey, and N.B. Furey. 2021, January 28th. Preparing historical fisheries-independent data for use in predictive modeling with seabird foraging. Presented at New Hampshire Sea Grant Research Symposium.
 
-Hermann, N.T., L.J. Hammer, N.E. Hussey, M. Marcoux, H. Pettitt-Wade, K. Hedges, and N.B. Furey. 2020, October 28. Using yearlong movements to explore seasonal adaptations of Arctic sculpin. Presented at American Fisheries Society Atlantic International Chapter Virtual Meeting. https://unh.app.box.com/s/xtcxpsm0jbtdutujgoyhlg5r9qtzg81l 
+__Hermann, N.T.__, L.J. Hammer, N.E. Hussey, M. Marcoux, H. Pettitt-Wade, K. Hedges, and N.B. Furey. 2020, October 28. Using yearlong movements to explore seasonal adaptations of Arctic sculpin. Presented at American Fisheries Society Atlantic International Chapter Virtual Meeting. https://unh.app.box.com/s/xtcxpsm0jbtdutujgoyhlg5r9qtzg81l 
 
-Hermann, N.T., L.J. Hammer, N.E. Hussey, M. Marcoux, H. Pettitt-Wade, K. Hedges, and N.B. Furey. 2020, September 14-25. Feeding and Movements of Arctic Sculpin Exploiting a Marine Resource Pulse. Presented at American Fisheries Society Virtual Annual Meeting 2020. https://afsannualmeeting.fisheries.org
+__Hermann, N.T.__, L.J. Hammer, N.E. Hussey, M. Marcoux, H. Pettitt-Wade, K. Hedges, and N.B. Furey. 2020, September 14-25. Feeding and Movements of Arctic Sculpin Exploiting a Marine Resource Pulse. Presented at American Fisheries Society Virtual Annual Meeting 2020. https://afsannualmeeting.fisheries.org
 
-Hermann, N.T., A. Caldwell, E. Craig, J. Seavey, and N.B. Furey. 2020, August 21. Modeling common tern foraging in the Gulf of Maine. Presented at SML Summer Symposium. https://www.youtube.com/watch?v=pOO19UvvcaI
+__Hermann, N.T.__, A. Caldwell, E. Craig, J. Seavey, and N.B. Furey. 2020, August 21. Modeling common tern foraging in the Gulf of Maine. Presented at SML Summer Symposium. https://www.youtube.com/watch?v=pOO19UvvcaI
 
-Hermann, N.T. 2019 March 14. Influence of the Pacific Salmon Spawning Subsidy on the Feeding Ecology and Growth of Great Lakes Stream-Resident Trout. Presented at AFS-TWS Michigan Joint Meeting. 
+__Hermann, N.T.__ 2019 March 14. Influence of the Pacific Salmon Spawning Subsidy on the Feeding Ecology and Growth of Great Lakes Stream-Resident Trout. Presented at AFS-TWS Michigan Joint Meeting. 
 
-Hermann, N.T. and B. Hoster. Ability and Behavior of Foraging Sunfish (Lepomis spp.) Communities in Northwestern Wisconsin Lakes of Differing Turbidity. Presentation and unpublished paper.
+__Hermann, N.T.__ and B. Hoster. Ability and Behavior of Foraging Sunfish (Lepomis spp.) Communities in Northwestern Wisconsin Lakes of Differing Turbidity. Presentation and unpublished paper.
 
-Hermann, N.T., B.S. Gerig, D.T. Chaloner, and G.A. Lamberti. Consumption of Salmon and Non-Salmon Resources by Resident Fishes During Pacific Salmon (Oncorhynchus spp.) Runs in the Great Lakes. Poster Presentation.
+__Hermann, N.T.__, B.S. Gerig, D.T. Chaloner, and G.A. Lamberti. Consumption of Salmon and Non-Salmon Resources by Resident Fishes During Pacific Salmon (Oncorhynchus spp.) Runs in the Great Lakes. Poster Presentation.
 
