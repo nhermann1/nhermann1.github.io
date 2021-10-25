@@ -3,23 +3,16 @@ title: "Photography"
 ---
 
 # 
-``` {r, echo=F}
 
-photos<-list.files(path="./Wallpapers-New/")
+Here are four random pictures among my favorites. Reload the page to see four more.
+
+``` {r, echo=F, out.width="50%"}
+library(knitr)
+photos<-list.files(path="./Wallpapers-New/",full.names = T)
 
 select4<-sample(photos,4)
 
-photo1<-paste0("./Wallpapers-New/",select4[1])
-photo2<-paste0("./Wallpapers-New/",select4[2])
-photo3<-paste0("./Wallpapers-New/",select4[3])
-photo4<-paste0("./Wallpapers-New/",select4[4])
-
+include_graphics(select4)
 ```
 
 
-Here are four random pictures among my favorites, reload the page to see four more
-
-
-![Alt text](`photo1`) ![Alt text](`photo2`)
-
-<img src=`photo3` style="width:25%"> <img src=`photo4` style="width:25%">

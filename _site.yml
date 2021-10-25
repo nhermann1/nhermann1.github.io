@@ -15,4 +15,4 @@ navbar:
     href: http://github.com/<nhermann1>/
 output:
 html_document:
- theme: darkly
+ theme: cosmo
