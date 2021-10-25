@@ -16,8 +16,10 @@ photo4<-paste0("Wallpapers-New/",select4[4])
 
 ```
 
+
 Here are four random pictures among my favorites, reload the page to see four more
 
-<img src=photo1 style="width:50%"> <img src=photo2 style="width:50%">
 
-<img src=photo3 style="width:50%"> <img src=photo4 style="width:50%">
+<img src=`photo1` style="width:25%"> <img src=`photo2` style="width:25%">
+
+<img src=`photo3` style="width:25%"> <img src=`photo4` style="width:25%">
