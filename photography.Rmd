@@ -9,10 +9,10 @@ photos<-list.files(path="./Wallpapers-New/")
 
 select4<-sample(photos,4)
 
-photo1<-paste0("Wallpapers-New/",select4[1])
-photo2<-paste0("Wallpapers-New/",select4[2])
-photo3<-paste0("Wallpapers-New/",select4[3])
-photo4<-paste0("Wallpapers-New/",select4[4])
+photo1<-paste0("docs/Wallpapers-New/",select4[1])
+photo2<-paste0("docs/Wallpapers-New/",select4[2])
+photo3<-paste0("docs/Wallpapers-New/",select4[3])
+photo4<-paste0("docs/Wallpapers-New/",select4[4])
 
 ```
 

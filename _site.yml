@@ -8,7 +8,11 @@ navbar:
   - text: "Research"
     href: fancy.html
   - text: "Photography"
-    href: photography.html
+    href: photography.html 
+  - icon: fa-envelope fa-lg
+    href: mailto:<Nathan.Hermann@unh.edu>
+  - icon: fa-github fa-lg
+    href: http://github.com/<nhermann1>/
 output:
 html_document:
  theme: darkly
