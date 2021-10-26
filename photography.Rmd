@@ -9,11 +9,10 @@ title: "Photography"
 ``` {r, echo=F, out.width="50%"}
 library(knitr)
 
-photos<-list.files(path="./Wallpapers-New",full.names = T)
+photos<-list.files(path="./assets",full.names = T)
 
 select4<-sample(photos,4)
 
 include_graphics(select4)
 ```
-
 
