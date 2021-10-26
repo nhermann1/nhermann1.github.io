@@ -8,4 +8,4 @@ title: "Personal Website"
 
 Click through the tabs along the top to find out more about me.
 
-![](./me.png)
+![Out doing some field work in NH](./me.png)
