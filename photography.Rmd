@@ -8,8 +8,8 @@ Here are four random pictures among my favorites. Reload the page to see four mo
 
 ``` {r, echo=F, out.width="50%"}
 library(knitr)
-getwd()
-photos<-list.files(path="../nhermann1.github.io/Wallpapers-New",full.names = T)
+
+photos<-list.files(path="./Wallpapers-New",full.names = T)
 
 select4<-sample(photos,4)
 

@@ -7,3 +7,5 @@ title: "Personal Website"
 ##My name is Nathan Hermann, I am currently a PhD student at the University of New Hampshire.
 
 Click through the tabs along the top to find out more about me.
+
+![](me.png)
