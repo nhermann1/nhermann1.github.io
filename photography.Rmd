@@ -5,7 +5,7 @@ title: "Photography"
 # 
 
 ###Here are four random pictures among my favorites. Reload the page to see four more.
-
+##
 ``` {r, echo=F, out.width="50%"}
 library(knitr)
 
