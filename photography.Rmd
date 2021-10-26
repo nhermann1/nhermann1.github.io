@@ -12,7 +12,7 @@ photos<-list.files(path="./Wallpapers-New/",full.names = T)
 
 select4<-sample(photos,4)
 
-include_graphics(select4,dpi=10)
+include_graphics(select4)
 ```
 
 
