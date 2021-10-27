@@ -1,5 +1,6 @@
 ---
 title: "Photography"
+output: html_document
 runtime: shiny
 ---
 
@@ -9,8 +10,8 @@ runtime: shiny
 ##
 
 ``` {r global, echo=F}
-library(shiny)
-actionButton("reload","Show me 4 more")
+#library(shiny)
+#actionButton("reload","Show me 4 more")
 
 ```
 
@@ -23,45 +24,62 @@ photos<-list.files(path="./images",full.names = T)
 select4<-sample(photos,4)  
 include_graphics(select4)
 
-output[["image1"]] <- renderImage({
-  list(src=select4[1],width="99%")},deleteFile = F)
-output[["image2"]] <- renderImage({
-  list(src=select4[2],width="99%")},deleteFile = F)
-output[["image3"]] <- renderImage({
-  list(src=select4[3],width="99%")},deleteFile = F)
-output[["image4"]] <- renderImage({
-  list(src=select4[4],width="99%")},deleteFile = F)
-out1<-imageOutput("image1", width="100%", height="315px")
-out2<-imageOutput("image2", width="100%", height="315px")
-out3<-imageOutput("image3", width="100%", height="315px")
-out4<-imageOutput("image4", width="100%", height="315px")
-
-fluidRow(
-  column(6,fluidRow(out1),fluidRow(out2)),
-  column(6,fluidRow(out3),fluidRow(out4))
-)
-
-select4more <- eventReactive(input$reload, {
-  sample(photos,4)
-})
-output[["image5"]] <- renderImage({
-  list(src=select4more()[1],width="99%")},deleteFile = F)
-output[["image6"]] <- renderImage({
-  list(src=select4more()[2],width="99%")},deleteFile = F)
-output[["image7"]] <- renderImage({
-  list(src=select4more()[3],width="99%")},deleteFile = F)
-output[["image8"]] <- renderImage({
-  list(src=select4more()[4],width="99%")},deleteFile = F)
-out5<-imageOutput("image5", width="100%", height="315px")
-out6<-imageOutput("image6", width="100%", height="315px")
-out7<-imageOutput("image7", width="100%", height="315px")
-out8<-imageOutput("image8", width="100%", height="315px")
-
-fluidRow(
-  column(6,fluidRow(out5),fluidRow(out6)),
-  column(6,fluidRow(out7),fluidRow(out8))
-)
-
-```
+#img(src=select4[1], align = "left",width="49.9%")
+#img(src=select4[2], align = "right",width="49.9%")
+#img(src=select4[3], align = "left",width="49.9%")
+#img(src=select4[4], align = "right",width="49.9%")
 
 
+#photoPage<-reactive(as.numeric(input$page))
+#
+#photoPageNum<-photoPage()
+#
+#photosOnPage<-photos[((photoPage*10)-9):(photoPage*10)]
+
+#include_graphics(photosOnPage)
+
+
+#img(src=select4[1], align = "left",width="49.9%")
+#img(src=select4[2], align = "right",width="49.9%")
+#img(src=select4[3], align = "left",width="49.9%")
+#img(src=select4[4], align = "right",width="49.9%")
+
+
+#renderImage({
+#  list(src=select4[1],width="99%")},deleteFile = F)
+#output[["image2"]] <- renderImage({
+#  list(src=select4[2],width="99%")},deleteFile = F)
+#output[["image3"]] <- renderImage({
+#  list(src=select4[3],width="99%")},deleteFile = F)
+#output[["image4"]] <- renderImage({
+#  list(src=select4[4],width="99%")},deleteFile = F)
+#out1<-imageOutput("image1", width="100%", height="315px")
+#out2<-imageOutput("image2", width="100%", height="315px")
+#out3<-imageOutput("image3", width="100%", height="315px")
+#out4<-imageOutput("image4", width="100%", height="315px")
+#
+#fluidRow(
+#  column(6,fluidRow(out1),fluidRow(out2)),
+#  column(6,fluidRow(out3),fluidRow(out4))
+#)
+#
+#select4more <- eventReactive(input$reload, {
+#  sample(photos,4)
+#})
+#output[["image5"]] <- renderImage({
+#  list(src=select4more()[1],width="99%")},deleteFile = F)
+#output[["image6"]] <- renderImage({
+#  list(src=select4more()[2],width="99%")},deleteFile = F)
+#output[["image7"]] <- renderImage({
+#  list(src=select4more()[3],width="99%")},deleteFile = F)
+#output[["image8"]] <- renderImage({
+#  list(src=select4more()[4],width="99%")},deleteFile = F)
+#out5<-imageOutput("image5", width="100%", height="315px")
+#out6<-imageOutput("image6", width="100%", height="315px")
+#out7<-imageOutput("image7", width="100%", height="315px")
+#out8<-imageOutput("image8", width="100%", height="315px")
+#
+#fluidRow(
+#  column(6,fluidRow(out5),fluidRow(out6)),
+#  column(6,fluidRow(out7),fluidRow(out8))
+#)
