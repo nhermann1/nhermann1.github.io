@@ -14,7 +14,7 @@ photos<-list.files(path="docs/assets",full.names = T)
 select4<-sample(photos,4)
 select4<-paste0("https://github.com/nhermann1/nhermann1.github.io/blob/main/",select4)
 
-include_graphics(select4)
+include_graphics("assets/_DSC0346.jpeg")
 
 ```
 
