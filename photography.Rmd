@@ -9,17 +9,13 @@ title: "Photography"
 ``` {r, echo=F, out.width="50%"}
 library(knitr)
 
-photos<-list.files(path="docs/images",full.names = T)
+photos<-list.files(path="./images",full.names = T)
 
 select4<-sample(photos,4)
 
 #Full path option
 #select4<-paste0("https://github.com/nhermann1/nhermann1.github.io/blob/main/",select4)
 
-include_graphics("./images/DSC2245.JPG")
+include_graphics(select4)
 
 ```
-
-
-![new picture](./images/DSC2245.JPG)
-
