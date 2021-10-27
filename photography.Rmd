@@ -9,7 +9,7 @@ title: "Photography"
 ``` {r, echo=F, out.width="50%"}
 library(knitr)
 
-photos<-list.files(path="docs/assets",full.names = T)
+photos<-list.files(path="docs/images",full.names = T)
 
 select4<-sample(photos,4)
 
@@ -18,8 +18,7 @@ select4<-sample(photos,4)
 
 #include_graphics("./assets/_DSC0346.jpeg")
 
-
 ```
 
-![test](./assets/_DSC0346.jpeg)
+![test](./images/_DSC0346.png)
 
