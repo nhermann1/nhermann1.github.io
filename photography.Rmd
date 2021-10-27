@@ -18,4 +18,3 @@ include_graphics(select4)
 
 ```
 
-<img src="`paste0({{site.url}},select4[1])`" style="display: block; margin: auto;" />
