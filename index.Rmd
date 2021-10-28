@@ -5,7 +5,7 @@ title: "Personal Website"
 # 
 #Hello! 
 ####
-##My name is Nathan Hermann, I am currently a PhD student at the University of New Hampshire.
+##My name is Nathan Hermann, I am currently a PhD student at the University of New Hampshire as a member of Nathan Furey's [Fish and Movement Ecology Lab](https://fishmovementecolab.wixsite.com/fureyfmelab)
 
 Click through the tabs along the top to find out more about me.
 

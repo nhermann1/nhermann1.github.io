@@ -5,9 +5,16 @@ runtime: shiny
 ---
 
 
+#
+
+Especially during the lockdown due to Covid, I have adopted wildlife photography as my hobby of choice.
+
+#
 
 ###Here are four random pictures among my favorites.
 ##
+
+[Click to see more](https://github.com/nhermann1/nhermann1.github.io/tree/main/images)
 
 ``` {r global, echo=F}
 #library(shiny)
@@ -66,6 +73,7 @@ include_graphics(select4)
 #select4more <- eventReactive(input$reload, {
 #  sample(photos,4)
 #})
+
 #output[["image5"]] <- renderImage({
 #  list(src=select4more()[1],width="99%")},deleteFile = F)
 #output[["image6"]] <- renderImage({
@@ -83,3 +91,5 @@ include_graphics(select4)
 #  column(6,fluidRow(out5),fluidRow(out6)),
 #  column(6,fluidRow(out7),fluidRow(out8))
 #)
+```
+
